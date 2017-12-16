@@ -1,0 +1,9 @@
+*.iml
+.idea
+*.sw*
+vendor
+.DS_Store
+composer.lock
+tests/constants.php
+vendor/
+*.txt
